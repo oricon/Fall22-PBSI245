@@ -10,7 +10,7 @@ knit: (function(input_file, encoding) {
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 output: 
-  rmdformats::downcute:
+  rmdformats::robobook:
     use_bookdown: true
 ---
 
@@ -178,9 +178,11 @@ Thus, the goal here is to advance your capabilities as critical consumers of dat
 
 -   2:20 to 3:35 pm in Psychology 338
 
+**Make sure you attend the correct section. This is section 501. You will not receive credit for assignments and/or exams taken in another section.**
+
 There is no credit for attendance in this class, nor are there any points for any in-class activities. That said, my lecture slides will only give you an outline for the course and will not serve as a substitute for attendance.
 
-Exams are also "take-home" (online).
+Exams will be taken outside of class. We will be using Respondus browser lockdown software; it is your responsibility to make sure you can run this without issues. If you do not have a reliable computer you should take exams in a computer lab. Deadlines will **not** be extended due to computer issues. The professor and teaching staff cannot provide technical support with respondus, canvas, or other software.
 
 ## Prerequisites
 
@@ -328,7 +330,7 @@ There will be `r I+K` Post-Class quizzes.
 
 The last `r K` (Chapters 21-23),$^{\dagger\dagger\dagger}$ however, are conceptually a bit harder and are worth `r J`. Together, these sum to `r (H*I)+(J*K)` points, or `r paste0(round((sum((H*I),(J*K))/N)*100,0),"%")` of your total grade).
 
-*Post-Class quizzes* quizzes must be completed **within one week** of the end of the relevant class. See the schedule in*Canvas* for details.
+*Post-Class quizzes* must be completed **within one week** of the end of the relevant class (i.e., Post-class quiz for Ch. 1 is due within a week of the class in which Ch. 1 was discussed). See the schedule for specific dates.
 
 The post-class quizzes are pretty different from the *Learning Curve* quizzes. Specifically, they are not "all or nothing." You can get answers wrong. However, you get up to 5 attempts at each quiz (within the 1-week window it's available), and we take your highest score of your attempts. On most of the post-class quizzes, there are around 10-15 questions.
 
