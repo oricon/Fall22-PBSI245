@@ -20,7 +20,11 @@ Week	Day	Date	Topic in Main Class$^*$	Post-Class Quiz	Exams$^{\ddagger}$
 	Thur	27-Oct	Ch 20	Ch 17	
 11	Tues	1-Nov	Review	no quiz	Exam 3 window opens$^{\dagger}$
 	Thur	3-Nov	TBD	no quiz	Exam 3 window closes$^{\ddagger}$
+<<<<<<< HEAD
 12	Tues	8-Nov	Ch 21	Ch 18 & 19	
+=======
+12	Tues	8-Nov	Ch 21	Ch 18 \& 19	
+>>>>>>> f27a5eb5a14e73d037725714c52b3a48e983ebc9
 	Thur	10-Nov	Ch 22	Ch 20	
 13	Tues	15-Nov	Ch 23	Ch 21	
 	Thur	17-Nov	Ch 24	Ch 22	
