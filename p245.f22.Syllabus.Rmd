@@ -414,7 +414,7 @@ pandoc.table(Schedule,
 options(knitr.kable.NA = '')
 kable(Schedule,
 caption = 'Schedule by Unit/Week/Day') %>%
-pack_rows("Preliminaries", 1, 1, background = "#D6D3C4") %>%
+pack_rows("Overview", 1, 1, background = "#D6D3C4") %>%
 pack_rows("Part 1: Producing Data", 2, 7, background = "#D6D3C4") %>%
 pack_rows("Part 2: Organizing Data", 8, 15, background = "#D6D3C4") %>%
 pack_rows("Part 3: Chance", 16, 20, background = "#D6D3C4") %>%
@@ -429,7 +429,7 @@ scroll_box(width = "100%", height = "600px")
 $*$ The *Learning Curve Quiz* due date for a chapter is the first day that chapter appears in this column\
 $\dagger$ The window to take the exam opens at 3:35 pm on this day.\
 $\ddagger$ The window to take the exam closes at 11:59 pm on this day\
-$**$ The final-exam window begins on *TBD*. The exam will be available during the [official final exam period](https://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules)
+$**$ The final-exam window begins on Dec 9 at 7:30 am and closes Dec 14 at 8:00 pm.
 
 <br/>
 
