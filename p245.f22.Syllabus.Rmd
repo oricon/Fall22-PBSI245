@@ -328,7 +328,9 @@ There will be `r I+K` Post-Class quizzes.
 
 *Almost* exactly parallel to the *Learning Curve* quizzes, the first `r I` (Chapters 1-15 & 17-20)$^{\dagger\dagger}$ are relatively easy, each being worth `r H` points.
 
-The last `r K` (Chapters 21-23),$^{\dagger\dagger\dagger}$ however, are conceptually a bit harder and are worth `r J`. Together, these sum to `r (H*I)+(J*K)` points, or `r paste0(round((sum((H*I),(J*K))/N)*100,0),"%")` of your total grade).
+The last `r K` (Chapters 21-23),$^{\dagger\dagger\dagger}$ however, are conceptually a bit harder and are worth `r J`. 
+
+Together, these sum to `r (H*I)+(J*K)` points, or `r paste0(round((sum((H*I),(J*K))/N)*100,0),"%")` of your total grade).
 
 *Post-Class quizzes* must be completed **within one week** of the end of the relevant class (i.e., Post-class quiz for Ch. 1 is due within a week of the class in which Ch. 1 was discussed). See the schedule for specific dates.
 
