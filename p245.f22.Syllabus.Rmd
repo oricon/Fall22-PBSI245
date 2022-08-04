@@ -180,7 +180,7 @@ Thus, the goal here is to advance your capabilities as critical consumers of dat
 
 **Make sure you attend the correct section. This is section 501. You will not receive credit for assignments and/or exams taken in another section.**
 
-There is no credit for attendance in this class, nor are there any points for any in-class activities. That said, my lecture slides will only give you an outline for the course and will not serve as a substitute for attendance.
+There is no credit for attendance in this class, nor are there any points for any in-class activities. That said, my lecture slides will only give you an outline for the course and will not serve as a substitute for attendance. I will be recording lectures, but these should only serve as a study aid or in the case of absences.
 
 Exams will be taken outside of class. We will be using Respondus browser lockdown software; it is your responsibility to make sure you can run this without issues. If you do not have a reliable computer you should take exams in a computer lab. Deadlines will **not** be extended due to computer issues. The professor and teaching staff cannot provide technical support with respondus, canvas, or other software.
 
@@ -237,7 +237,7 @@ This will include an understanding of the following:
 
 Texas A&M University has identified [student learning outcomes](https://catalog.tamu.edu/undergraduate/general-information/student-learning-outcomes/) that describe our institutional commitment to your educational goals. They are listed below (in shortened form), along with the dimension of that learning outcome that applies most closely to this class (in boldface italics), and an explanation of how this class meets that learning outcome.
 
-Note however, that most of these six university outcomes are not directly measurable outcomes in this particular course. They are more like broad entailments.
+Note however, that most of these six university outcomes are not directly measurable outcomes in this particular course.
 
 ### Knowledge of Degree
 
