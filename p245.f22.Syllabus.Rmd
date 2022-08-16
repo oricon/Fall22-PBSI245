@@ -178,9 +178,9 @@ Thus, the goal here is to advance your capabilities as critical consumers of dat
 
 -   2:20 to 3:35 pm in Psychology 338
 
-**Make sure you attend the correct section. This is section 501. You will not receive credit for assignments and/or exams taken in another section.**
+**Make sure you attend the correct section. This is section 501. The other section may cover different material and/or use a different schedule.**
 
-There is no credit for attendance in this class, nor are there any points for any in-class activities. That said, my lecture slides will only give you an outline for the course and will not serve as a substitute for attendance. I will be recording lectures, but these should only serve as a study aid or in the case of absences.
+There is no credit for attendance in this class, nor are there any points for any in-class activities. That said, my lecture slides will only give you an outline for the course and will not serve as a substitute for attendance. I will be recording lectures, but these should only serve as a study aid or in the case of absences. I will not guarantee that recordings will available for all lecture or capture the material with sufficient quality.
 
 Exams will be taken outside of class. We will be using Respondus browser lockdown software; it is your responsibility to make sure you can run this without issues. If you do not have a reliable computer you should take exams in a computer lab. Deadlines will **not** be extended due to computer issues. The professor and teaching staff cannot provide technical support with respondus, canvas, or other software.
 
@@ -289,8 +289,6 @@ There will be `r sum(B1,B2,B3,B4)` exams. They increase in points as the semeste
 
 Exams will consist of multiple-choice questions, but sometimes calculations are necessary.
 
-You get three attempts for each exam. But you have to be careful: There is a 12-hour waiting period between attempts. So if you want to be able to make all three attempts, you'd want to start your first attempt no later than about 28 hours before the final deadline for that exam (24 hours for the 2 waiting periods, and 3 hours 45 minutes for the attempts themselves [and this would be 30 hours for the final exam since each attempt can last up to 2 hours; see below]).
-
 These exams will all be taken online through the [Respondus Lockdown Browser](https://web.respondus.com/he/lockdownbrowser/).
 
 The *Respondus Lockdown Browser* is a browser that shuts down all your other applications on that computer while you take exams. You need to download it. You will need to do the following during exams:
@@ -301,6 +299,8 @@ The *Respondus Lockdown Browser* is a browser that shuts down all your other app
 The first three exams will be due within 1 class meeting of the end of the respective unit. The final exam window spans the entire period set out for final exams by the university.
 
 Unless you have an accommodation, the first three exams will have a 1-hour, 15-minute limit (like a TTh class), once started in the *Lockdown Browser*. The *Final Exam* will have a 2-hour limit.
+
+You get three attempts for each exam. But you have to be careful: There is a 12-hour waiting period between attempts. If you are in the middle of an attempt when the time period expires you will not be given a chance to complete that attempt and your progress will be recorded.
 
 $\dagger\dagger$ If you do not have access to your student ID for whatever reason, you can log in to the *Howdy Portal* and click on the ***My Profile*** tile. In the top right corner, you will see you ***Aggie Card photo*** along with your full ***name*** and ***UIN***. You can take a screenshot of this display with your smart phone or print it out in order to present for online classes and exams.
 
