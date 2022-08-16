@@ -415,10 +415,10 @@ options(knitr.kable.NA = '')
 kable(Schedule,
 caption = 'Schedule by Unit/Week/Day') %>%
 pack_rows("Overview", 1, 1, background = "#D6D3C4") %>%
-pack_rows("Part 1: Producing Data", 2, 7, background = "#D6D3C4") %>%
-pack_rows("Part 2: Organizing Data", 8, 15, background = "#D6D3C4") %>%
-pack_rows("Part 3: Chance", 16, 20, background = "#D6D3C4") %>%
-pack_rows("Part 4: Inference, Ethics, & Methods", 21, 30, background = "#D6D3C4") %>%
+pack_rows("Part 1: Producing Data", 2, 8, background = "#D6D3C4") %>%
+pack_rows("Part 2: Organizing Data", 9, 15, background = "#D6D3C4") %>%
+pack_rows("Part 3: Chance", 16, 22, background = "#D6D3C4") %>%
+pack_rows("Part 4: Inference, Ethics, & Methods", 23, 30, background = "#D6D3C4") %>%
 pack_rows("Final Exam Week", 31, 32, background = "#D6D3C4") %>%
 row_spec(0:0, bold = T, color = "white", background = "#500000") %>%
 kable_styling(font_size=14, full_width = F, position = "left") %>%
