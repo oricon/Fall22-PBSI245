@@ -172,7 +172,7 @@ As such, it may be one of the most useful general-purpose classes that you take 
 
 Thus, the goal here is to advance your capabilities as critical consumers of data in this class, resulting in students ultimately who not only can "defend themselves" against quantitative chicanery, but also are ready to start analyzing data in a more formal way (via mathematics) in *PBSI 301* (*Elementary Statistics for Psychology*), as well as its subsequent counterpart, *PBSI 302* (*Experimental Psychology*).
 
-## Meetings (MWF)
+## Meetings (TR)
 
 ### Section 501
 
@@ -357,6 +357,7 @@ This is the key to doing well in this class. The reason is that the exams can be
 <br/>
 
 # Course Grading
+Extra credit opportunities will *not* be available. It is unethical to offer extra credit opportunities that are not available to the entire class. Further, extra credit assignments would distract you from the assigned work. You can earn points in this course in a variety of ways described below.
 
 ## Breakdown by Assignment
 
@@ -416,8 +417,8 @@ kable(Schedule,
 caption = 'Schedule by Unit/Week/Day') %>%
 pack_rows("Overview", 1, 1, background = "#D6D3C4") %>%
 pack_rows("Part 1: Producing Data", 2, 8, background = "#D6D3C4") %>%
-pack_rows("Part 2: Organizing Data", 9, 15, background = "#D6D3C4") %>%
-pack_rows("Part 3: Chance", 16, 22, background = "#D6D3C4") %>%
+pack_rows("Part 2: Organizing Data", 9, 16, background = "#D6D3C4") %>%
+pack_rows("Part 3: Chance", 17, 22, background = "#D6D3C4") %>%
 pack_rows("Part 4: Inference, Ethics, & Methods", 23, 30, background = "#D6D3C4") %>%
 pack_rows("Final Exam Week", 31, 32, background = "#D6D3C4") %>%
 row_spec(0:0, bold = T, color = "white", background = "#500000") %>%
