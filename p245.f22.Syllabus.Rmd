@@ -334,7 +334,7 @@ Together, these sum to `r (H*I)+(J*K)` points, or `r paste0(round((sum((H*I),(J*
 
 *Post-Class quizzes* must be completed **within one week** of the end of the relevant class (i.e., Post-class quiz for Ch. 1 is due within a week of the class in which Ch. 1 was discussed). See the schedule for specific dates.
 
-The post-class quizzes are pretty different from the *Learning Curve* quizzes. Specifically, they are not "all or nothing." You can get answers wrong. However, you get up to 5 attempts at each quiz (within the 1-week window it's available), and we take your highest score of your attempts. On most of the post-class quizzes, there are around 10-15 questions.
+The post-class quizzes are pretty different from the *Learning Curve* quizzes. Specifically, they are not "all or nothing." You can get answers wrong. However, you get up to 3 attempts at each quiz (within the 1-week window it's available), and we take your highest score of your attempts. On most of the post-class quizzes, there are around 10-15 questions.
 
 There is no time limit to completing each attempt other than the deadline.
 
