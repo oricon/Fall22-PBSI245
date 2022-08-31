@@ -145,7 +145,7 @@ I <- 19 # Number of easier post-class quizzes
 
 # Harder Post-class quizzes
 J <- 20 # Points per harder post-class quiz
-K <- 4 # Number of harder post-class quizzes
+K <- 3 # Number of harder post-class quizzes
 
 # POINT TOTALS
 N <- sum((A1*B1),(A2*B2),(A3*B3),(A4*B4),
@@ -308,9 +308,9 @@ $\dagger\dagger$ If you do not have access to your student ID for whatever reaso
 
 There will be `r D+G` *Learning Curve* quizzes.
 
-The Learning Curves for the first `r D` (Chapters 1-15 & 17-20)$^{\dagger\dagger}$ are relatively easy, each being worth `r C` points.
+The Learning Curves for the first `r D` (Chapters 1-15 & 17-20)$^{\dagger\dagger}$ are relatively easy, each being worth `r C` points. This included Chapter 7 which is discussed at the end of the term.
 
-The last `r G`, however, are a bit harder conceptually and are worth `r E` points.
+The last `r G` (Chapters 21-24), however, are a bit harder conceptually and are worth `r E` points.
 
 All together, these sum to `r (C*D)+(E*G)` points, or `r paste0(round((sum((C*D),(E*G))/N)*100,0),"%")` of your total grade).
 
@@ -328,7 +328,7 @@ There will be `r I+K` Post-Class quizzes.
 
 *Almost* exactly parallel to the *Learning Curve* quizzes, the first `r I` (Chapters 1-15 & 17-20)$^{\dagger\dagger}$ are relatively easy, each being worth `r H` points.
 
-The last `r K` (Chapters 21-23),$^{\dagger\dagger\dagger}$ however, are conceptually a bit harder and are worth `r J`. 
+The last `r K` (Chapters 21-23),$^{\dagger\dagger\dagger}$ however, are conceptually a bit harder and are worth `r J`.  Due to schedule constraints, there is no assigned Post-Class Quiz for Ch 24.
 
 Together, these sum to `r (H*I)+(J*K)` points, or `r paste0(round((sum((H*I),(J*K))/N)*100,0),"%")` of your total grade).
 
