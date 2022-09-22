@@ -312,7 +312,7 @@ The Learning Curves for the first `r D` (Chapters 1-15 & 17-20)$^{\dagger\dagger
 
 The last `r G` (Chapters 21-24), however, are a bit harder conceptually and are worth `r E` points.
 
-All together, these sum to `r (C*D)+(E*G)` points, or `r paste0(round((sum((C*D),(E*G))/N)*100,0),"%")` of your total grade).
+All together, these sum to `r (C*D)+(E*G)` points, or `r paste0(round((sum((C*D),(E*G))/N)*100,0),"%")` of your total grade). The lowest 4 scores will be dropped. 
 
 *Learning Curve* quizzes must be completed **before the relevant class starts**. See the schedule in *Canvas* for details.
 
@@ -330,7 +330,7 @@ There will be `r I+K` Post-Class quizzes.
 
 The last `r K` (Chapters 21-23),$^{\dagger\dagger\dagger}$ however, are conceptually a bit harder and are worth `r J`.  Due to schedule constraints, there is no assigned Post-Class Quiz for Ch 24.
 
-Together, these sum to `r (H*I)+(J*K)` points, or `r paste0(round((sum((H*I),(J*K))/N)*100,0),"%")` of your total grade).
+Together, these sum to `r (H*I)+(J*K)` points, or `r paste0(round((sum((H*I),(J*K))/N)*100,0),"%")` of your total grade). The lowest 3 scores will be dropped. 
 
 *Post-Class quizzes* must be completed **within one week** of the end of the relevant class (i.e., Post-class quiz for Ch. 1 is due within a week of the class in which Ch. 1 was discussed). See the schedule for specific dates.
 
