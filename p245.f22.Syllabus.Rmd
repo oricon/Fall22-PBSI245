@@ -328,7 +328,7 @@ There will be `r I+K` Post-Class quizzes.
 
 *Almost* exactly parallel to the *Learning Curve* quizzes, the first `r I` (Chapters 1-15 & 17-20)$^{\dagger\dagger}$ are relatively easy, each being worth `r H` points.
 
-The last `r K` (Chapters 21-23),$^{\dagger\dagger\dagger}$ however, are conceptually a bit harder and are worth `r J`.  Due to schedule constraints, there is no assigned Post-Class Quiz for Ch 24.
+The last `r K` (Chapters 21-23),$^{\dagger\dagger\dagger}$ however, are conceptually a bit harder and are worth `r J`.  Due to schedule constraints, there is no assigned Post-Class Quiz for Ch 24 (It will be available if you'd like to use it for exam preparation - no extra credit for completing it).
 
 Together, these sum to `r (H*I)+(J*K)` points, or `r paste0(round((sum((H*I),(J*K))/N)*100,0),"%")` of your total grade). The lowest 3 scores will be dropped. 
 
@@ -370,7 +370,7 @@ Final grades will be assigned at the end of the semester on the basis of the tot
 |                                 Exam 3 (Part III) |        `r A3`        |        `r B3`        |  `r A3*B3`   | `r paste0(round(((A3*B3)/N)*100,0),"%")` |
 |                  Final Exam (Part IV, plus Ch. 7) |        `r A4`        |        `r B4`        |  `r A4*B4`   | `r paste0(round(((A4*B4)/N)*100,0),"%")` |
 | Easier *Learning Curve* Quizzes (Chs 1-15; 17-20) |        `r C`         |        `r D`         |   `r C*D`    |        `r round(((C*D)/N)*100,0)`        |
-|      Harder *Learning Curve* Quizzes (Chs. 21-23) |        `r E`         |        `r G`         |   `r E*G`    |        `r round(((E*G)/N)*100,0)`        |
+|      Harder *Learning Curve* Quizzes (Chs. 21-24) |        `r E`         |        `r G`         |   `r E*G`    |        `r round(((E*G)/N)*100,0)`        |
 |  Easier Post-class Quizzes (Chs 1-6; 8-15; 17-20) |        `r H`         |        `r I`         |   `r H*I`    |         `r round((H*I/N)*100,0)`         |
 |            Harder Post-class Quizzes (Chs. 21-23) |        `r J`         |        `r K`         |   `r J*K`    |         `r round((J*K/N)*100,0)`         |
 |                                                   |                      |       TOTALS:        |    `r N`     |                   100%                   |
